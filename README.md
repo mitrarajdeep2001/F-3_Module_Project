@@ -1,5 +1,5 @@
 # MeShop.
-- Deployed Link: 
+- Deployed Link: https://mitrarajdeep2001.github.io/F-3_Module_Project/
 
 # About Meshop.
 MeShop. is the dummy shopping website, which gives us the realistic feel of the online shopping done on the various online shopping platforms available in the market. It is not as sophisticated and efficient as other online shopping platforms are, but contains the required features such as product searching, filtering, cart feature, user login, use signup, user authentication and much more. It covers the complete cycle right from the start of product search to the dummy payment completion.
